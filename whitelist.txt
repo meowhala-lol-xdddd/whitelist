@@ -1,1 +1,1 @@
-["testemail@gmail.com", "testemail2@gmail.com", "hi"]
+["testemail@gmail.com", "testemail2@gmail.com"]
